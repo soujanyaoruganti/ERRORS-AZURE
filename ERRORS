@@ -1,0 +1,6 @@
+"git did not exit cleanly (exit code 128)" error
+
+SOL: EXCLUDE WEBAPPLICATION1/.VS
+GOTO GIT------INFO------EXCLUDE
+OPEN EXCLUDE IN NOTE PAD
+TYPE: *.vs/
