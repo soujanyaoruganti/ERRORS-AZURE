@@ -4,3 +4,12 @@ SOL: EXCLUDE WEBAPPLICATION1/.VS
 GOTO GIT------INFO------EXCLUDE
 OPEN EXCLUDE IN NOTE PAD
 TYPE: *.vs/
+
+VISUAL STUDIO DEPLOYMENT FOR SQL DATABASE ERRORS:
+
+Unable to connect to target server
+Change the firewall settings in portal sql database server
+Alllow IP address range between
+0.0.0.0 to 255.255.255.255
+
+A project which dpecifies sql server 2016 as the target platform cannot be published to microsoft azure sql database v12
